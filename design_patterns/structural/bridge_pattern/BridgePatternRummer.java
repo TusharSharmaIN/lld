@@ -1,7 +1,7 @@
-package design_patterns.bridge_pattern;
+package design_patterns.structural.bridge_pattern;
 
-import design_patterns.bridge_pattern.renderer.*;
-import design_patterns.bridge_pattern.shape.*;
+import design_patterns.structural.bridge_pattern.renderer.*;
+import design_patterns.structural.bridge_pattern.shape.*;
 
 public class BridgePatternRummer {
     public static void main(String[] args) {

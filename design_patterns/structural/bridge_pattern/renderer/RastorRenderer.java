@@ -1,4 +1,4 @@
-package design_patterns.bridge_pattern.renderer;
+package design_patterns.structural.bridge_pattern.renderer;
 
 public class RastorRenderer implements Renderer {
     @Override

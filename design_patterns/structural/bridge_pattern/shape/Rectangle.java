@@ -1,6 +1,6 @@
-package design_patterns.bridge_pattern.shape;
+package design_patterns.structural.bridge_pattern.shape;
 
-import design_patterns.bridge_pattern.renderer.Renderer;
+import design_patterns.structural.bridge_pattern.renderer.Renderer;
 
 public class Rectangle extends Shape {
     private final float length;
