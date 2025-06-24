@@ -19,8 +19,7 @@ public class InhousePaymentProcessor implements PaymentProcessor {
 
     @Override
     public String getTransactionId() {
-       return transactionId;
+        return transactionId;
     }
 
-    
 }

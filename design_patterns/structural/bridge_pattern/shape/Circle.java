@@ -14,5 +14,5 @@ public class Circle extends Shape {
     public void draw() {
         renderer.renderCircle(radius);
     }
-    
+
 }

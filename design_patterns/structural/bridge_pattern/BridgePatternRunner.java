@@ -6,7 +6,7 @@ import design_patterns.structural.bridge_pattern.shape.*;
 public class BridgePatternRunner {
     public static void main(String[] args) {
         System.out.println("Brigde Pattern Runner");
-        
+
         Renderer vector = new VectorRenderer();
         Renderer rastor = new RastorRenderer();
 

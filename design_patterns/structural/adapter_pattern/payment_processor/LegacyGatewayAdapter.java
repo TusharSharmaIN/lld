@@ -24,5 +24,5 @@ public class LegacyGatewayAdapter implements PaymentProcessor {
     public String getTransactionId() {
         return "LEGACY_" + legacyGateway.getReferenceNumber();
     }
-    
+
 }

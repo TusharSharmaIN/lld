@@ -7,12 +7,12 @@ public class AdapterPatternRunner {
     public static void main(String[] args) {
         System.out.println("Adapter Pattern Runner");
 
-        //  Inhouse processor
+        // Inhouse processor
         PaymentProcessor processor = new InhousePaymentProcessor();
         CheckoutService checkoutInhouse = new CheckoutService(processor);
         checkoutInhouse.checkout(100, "INR");
 
-        //  Legacy processor
+        // Legacy processor
         LegacyGateway legacyGateway = new LegacyGateway();
         LegacyGatewayAdapter legacyGatewayProcessor = new LegacyGatewayAdapter(legacyGateway);
         CheckoutService checkoutLegacy = new CheckoutService(legacyGatewayProcessor);
