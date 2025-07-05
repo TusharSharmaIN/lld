@@ -1,8 +1,8 @@
-package design_patterns.problems.parking_lot.Vehicle;
+package problems.parking_lot.Vehicle;
 
 import java.time.Duration;
 
-import design_patterns.problems.parking_lot.Fee.FeeStrategy;
+import problems.parking_lot.Fee.FeeStrategy;
 
 public class Vehicle {
     VehicleType vehicleType;

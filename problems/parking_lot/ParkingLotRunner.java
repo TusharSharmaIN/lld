@@ -1,11 +1,11 @@
-package design_patterns.problems.parking_lot;
+package problems.parking_lot;
 
 import java.util.Scanner;
 
-import design_patterns.problems.parking_lot.Fee.*;
-import design_patterns.problems.parking_lot.ParkingLot.*;
-import design_patterns.problems.parking_lot.Payment.*;
-import design_patterns.problems.parking_lot.Vehicle.*;
+import problems.parking_lot.Fee.*;
+import problems.parking_lot.ParkingLot.*;
+import problems.parking_lot.Payment.*;
+import problems.parking_lot.Vehicle.*;
 
 public class ParkingLotRunner {
     public static void main(String[] args) {

@@ -1,10 +1,10 @@
-package design_patterns.problems.parking_lot.ParkingLot;
+package problems.parking_lot.ParkingLot;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import design_patterns.problems.parking_lot.Vehicle.Vehicle;
-import design_patterns.problems.parking_lot.Vehicle.VehicleType;
+import problems.parking_lot.Vehicle.Vehicle;
+import problems.parking_lot.Vehicle.VehicleType;
 
 public class ParkingLot {
     List<ParkingFloor> floors = new ArrayList<>();

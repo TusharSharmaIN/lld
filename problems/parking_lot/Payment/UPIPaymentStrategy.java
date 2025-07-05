@@ -1,4 +1,4 @@
-package design_patterns.problems.parking_lot.Payment;
+package problems.parking_lot.Payment;
 
 public class UPIPaymentStrategy implements PaymentStrategy {
     double processingFee;

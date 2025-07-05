@@ -1,6 +1,6 @@
-package design_patterns.problems.parking_lot.Vehicle;
+package problems.parking_lot.Vehicle;
 
-import design_patterns.problems.parking_lot.Fee.FeeStrategy;
+import problems.parking_lot.Fee.FeeStrategy;
 
 public class BikeVehicle extends Vehicle {
 

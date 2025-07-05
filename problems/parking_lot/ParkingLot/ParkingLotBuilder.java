@@ -1,4 +1,4 @@
-package design_patterns.problems.parking_lot.ParkingLot;
+package problems.parking_lot.ParkingLot;
 
 import java.util.ArrayList;
 import java.util.List;

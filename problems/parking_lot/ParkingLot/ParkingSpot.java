@@ -1,9 +1,9 @@
-package design_patterns.problems.parking_lot.ParkingLot;
+package problems.parking_lot.ParkingLot;
 
 import java.time.Duration;
 
-import design_patterns.problems.parking_lot.Vehicle.Vehicle;
-import design_patterns.problems.parking_lot.Vehicle.VehicleType;
+import problems.parking_lot.Vehicle.Vehicle;
+import problems.parking_lot.Vehicle.VehicleType;
 
 public abstract class ParkingSpot {
     String spotNumber;
