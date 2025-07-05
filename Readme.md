@@ -7,4 +7,4 @@ This repository contains concise examples of low level design patterns, principl
 - [Awesome Low Level Design](https://github.com/ashishps1/awesome-low-level-design)
 - [Composite Design Pattern (Refactoring Guru)](https://refactoring.guru/design-patterns/composite)
 - [YouTube Playlist: Low Level Design](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
-- [Code with Aryan: System Deign](https://codewitharyan.com/system-design/low-level-design)
+- [Code with Aryan: System Design](https://codewitharyan.com/system-design/low-level-design)
